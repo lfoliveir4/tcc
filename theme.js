@@ -3,7 +3,7 @@ import theme from 'mdx-deck/themes'
 export default {
   ...theme,
   colors: {
-    background: '#373c49'
+    background: 'rgb(39, 36, 37);'
   },
   h1: {
     fontSize: '1.5em',
@@ -15,10 +15,11 @@ export default {
   },
   p: {
     fontSize: '1em',
-    color: "#FFA7C4",
+    color: "rgb(253, 170, 76)",
   },
   ul: {
-    fontSize: '1em'
+    fontSize: '1em',
+    color: "#FFF"
   },
   ol: {
     fontSize: '1em'
